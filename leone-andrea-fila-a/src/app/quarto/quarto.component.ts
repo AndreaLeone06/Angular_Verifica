@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./quarto.component.css']
 })
 export class QuartoComponent {
-
+  nome = "quarto"
 }
